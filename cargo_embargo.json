@@ -1,8 +1,0 @@
-{
-  "package": {
-    "foreign-types-shared": {
-      "force_rlib": true
-    }
-  },
-  "run_cargo": false
-}
